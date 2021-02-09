@@ -18,7 +18,7 @@ const displaySongs = songs => {
                     </div>
                     
                     <audio controls>
-                        <source src="${song.preview}" type="audio/ogg">
+                        <source src="${song.preview}" type="audio/mpeg">
                     </audio>
 
                     <div class="col-md-3 text-md-right text-center">
